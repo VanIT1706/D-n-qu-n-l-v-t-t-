@@ -1,0 +1,6 @@
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\bin\Debug\DTO.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\bin\Debug\DTO.pdb
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\obj\Debug\DTO.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\DTO\obj\Debug\DTO.pdb

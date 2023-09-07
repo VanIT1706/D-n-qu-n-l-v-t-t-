@@ -1,0 +1,11 @@
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\BLL.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\BLL.pdb
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\DAL.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\DTO.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\DAL.pdb
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\bin\Debug\DTO.pdb
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\obj\Debug\BLL.dll
+D:\LapTrinhC++\TimODay\BaiHoc\Bai56\BLL\obj\Debug\BLL.pdb
